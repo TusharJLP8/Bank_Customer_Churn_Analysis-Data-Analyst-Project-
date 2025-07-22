@@ -121,3 +121,9 @@ Below are brief descriptions of some key queries written for the analysis:
 - 🔮 **Next Steps**: Integrating EDA with machine learning models to **predict future churners** and implementing early retention strategies.
 
 ---
+
+## 🙌 **Acknowledgements**
+
+**Thanks to Maven Analytics for the dataset.**
+
+**Project authored using MySQL with a focus on building analytical depth for churn prediction.**
