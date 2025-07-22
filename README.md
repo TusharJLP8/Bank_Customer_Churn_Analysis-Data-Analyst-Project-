@@ -28,6 +28,7 @@ This project focuses on understanding customer churn behavior in a banking envir
 
 - 💾 **MySQL**
 - 🔧 **SQL Techniques Used**:
+  - Windows Functions
   - Views
   - Aggregation functions
   - `CASE` statements
