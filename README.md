@@ -1,2 +1,2 @@
-# Customer_Churn_Analysis
-Customer Churn Analysis using SQL and PowerBI
+# Bank_Customer_Churn_Analysis
+Bank Customer Churn Analysis using SQL and PowerBI
